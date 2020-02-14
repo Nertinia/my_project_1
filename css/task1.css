@@ -1,0 +1,121 @@
+body{
+  background-color:black;
+  font-family: orbitron, sans-serif;
+font-style: normal;
+font-weight:300;
+font-size:40px;
+}
+
+.frame{
+  position:absolute;
+  width:1400px;
+  height:1500px;
+  left:20px;
+z-index:0;
+}
+
+.photo1{
+  position:absolute;
+  width:800px;
+  height:500px;
+  bottom:50px;
+  right:720px;
+  z-index:10;
+}
+.glass1{
+  position:absolute;
+  width:800px;
+  height:500px;
+  bottom:58px;
+  right:708px;
+  z-index:11;
+}
+
+.photo2{
+  position:absolute;
+  width:800px;
+  height:500px;
+  bottom:63px;
+  right:390px;
+}
+.glass2{
+  position:absolute;
+  width:800px;
+  height:500px;
+  bottom:59px;
+  right:312px;
+  z-index:1;
+}
+
+
+.photo3{
+  position:absolute;
+  width:800px;
+  height:500px;
+  bottom:58px;
+  left:730px;
+}
+.glass3{
+  position:absolute;
+  width:800px;
+  height:500px;
+  bottom:59px;
+  left:730px;
+  z-index:1;
+}
+
+.photo4{
+  position:absolute;
+  width:800px;
+  height:500px;
+  top:800px;
+  right:675px;
+}
+.glass4{
+  position:absolute;
+  width:800px;
+  height:500px;
+  top:800px;
+  right:708px;
+  z-index:1;
+}
+
+.photo5{
+  position:absolute;
+  width:800px;
+  height:500px;
+  top:800px;
+  right:280px;
+}
+.glass5{
+  position:absolute;
+  width:800px;
+  height:500px;
+  top:800px;
+  right:313px;
+  z-index:1;
+}
+
+.photo6{
+  position:absolute;
+  width:800px;
+  height:500px;
+  top:800px;
+  right:-125px;
+}
+.glass6{
+  position:absolute;
+  width:800px;
+  height:500px;
+  top:800px;
+  right:-93px;
+  z-index:1;
+}
+
+h1{
+  position:absolute;
+bottom:550px;
+  left:540px;
+  color:#182ec7;
+  z-index:10;
+}

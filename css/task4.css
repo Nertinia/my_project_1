@@ -1,0 +1,37 @@
+body{
+  background-color: black;
+}
+.frame{
+  position:absolute;
+  width:1400px;
+  height:900px;
+}
+.bar{
+  position:absolute;
+  width:1400px;
+  height:800px;
+}
+.bar1{
+  position:absolute;
+  left:5px;
+}
+.bar2{
+  position:absolute;
+  left:10px;
+}
+.bar3{
+  position:absolute;
+  left:15px;
+}
+.bar4{
+  position:absolute;
+  top:70px;
+}
+.bar5{
+  position:absolute;
+  top:70px;
+}
+.bar6{
+  position:absolute;
+  top:70px;
+}
