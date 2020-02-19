@@ -24,10 +24,10 @@ z-index:0;
 }
 .glass1{
   position:absolute;
-  width:800px;
-  height:500px;
-  bottom:58px;
-  right:708px;
+  width:275px;
+  height:435px;
+  bottom:95px;
+  right:980px;
   z-index:11;
 }
 
@@ -40,10 +40,10 @@ z-index:0;
 }
 .glass2{
   position:absolute;
-  width:800px;
-  height:500px;
-  bottom:59px;
-  right:312px;
+  width:275px;
+  height:435px;
+  bottom:93px;
+  right:585px;
   z-index:1;
 }
 
@@ -57,10 +57,10 @@ z-index:0;
 }
 .glass3{
   position:absolute;
-  width:800px;
-  height:500px;
-  bottom:59px;
-  left:730px;
+  width:275px;
+  height:435px;
+  bottom:93px;
+  left:985px;
   z-index:1;
 }
 
@@ -73,10 +73,10 @@ z-index:0;
 }
 .glass4{
   position:absolute;
-  width:800px;
-  height:500px;
-  top:800px;
-  right:708px;
+  width:275px;
+  height:435px;
+  top:830px;
+  right:980px;
   z-index:1;
 }
 
@@ -89,10 +89,10 @@ z-index:0;
 }
 .glass5{
   position:absolute;
-  width:800px;
-  height:500px;
-  top:800px;
-  right:313px;
+  width:275px;
+  height:435px;
+  top:830px;
+  right:583px;
   z-index:1;
 }
 
@@ -105,10 +105,10 @@ z-index:0;
 }
 .glass6{
   position:absolute;
-  width:800px;
-  height:500px;
-  top:800px;
-  right:-93px;
+  width:275px;
+  height:435px;
+  top:830px;
+  right:180px;
   z-index:1;
 }
 

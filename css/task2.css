@@ -147,3 +147,19 @@ h13{
   opacity:0.8;
   z-index:20;
 }
+.link2{
+  position:absolute;
+  width:248px;
+  height:75px;
+  left:825px;
+  top:745px;
+  z-index:10;
+}
+.link3{
+  position:absolute;
+  width:162px;
+  height:195px;
+  left:352px;
+  top:590px;
+  z-index:10;
+}

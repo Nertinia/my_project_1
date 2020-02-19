@@ -28,17 +28,29 @@ font-style: normal;
   left:15px;
   z-index:10;
 }
-.bar4{
+.ba4{
   position:absolute;
-  top:70px;
+  width:400px;
+  height:90px;
+  top:710px;
+  left:130px;
+  z-index:10;
 }
-.bar5{
+.ba5{
   position:absolute;
-  top:70px;
+  width:420px;
+  height:90px;
+  top:712px;
+  left:520px;
+  z-index:10;
 }
-.bar6{
+.ba6{
   position:absolute;
-  top:70px;
+  width:400px;
+  height:110px;
+  top:696px;
+  left:920px;
+  z-index:10;
 }
 .design{
   width:1400px;

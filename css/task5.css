@@ -49,3 +49,27 @@ z-index:15;
   right:400px;
 z-index:1;
 }
+.link1{
+  position:absolute;
+  width:200px;
+  height:200px;
+  top:330px;
+  left:175px;
+  z-index:20;
+}
+.link2{
+  position:absolute;
+  width:215px;
+  height:210px;
+  top:95px;
+  left:425px;
+  z-index:20;
+}
+.link3{
+  position:absolute;
+  width:280px;
+  height:210px;
+  top:1225px;
+  left:145px;
+  z-index:20;
+}

@@ -13,6 +13,7 @@ font-style: normal;
   background:linear-gradient(#034ef5,#05fad8);
   border-radius:50%;
   animation:animate 1s linear infinite;
+  z-index:5;
 }
 
 @keyframes animate{
